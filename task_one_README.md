@@ -12,3 +12,7 @@ This project reads data from a file and then plots it on a graph using Matplotli
 
 - Matplotlib
 
+### **Data File:**
+
+- plenty.data
+
