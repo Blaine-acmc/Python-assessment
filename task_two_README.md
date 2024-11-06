@@ -22,7 +22,7 @@ The districts are all assigned a different colour which corresponds to a legend.
 
 ### **Data file:**
 
-- [natural_neighbourhoods.dat] data/natural_neighbourhoods.dat
+- [natural_neighbourhoods.dat] data/natural_neighbourhoods.dat]
 
 ### **Map Configuration:**
 
