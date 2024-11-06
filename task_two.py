@@ -93,6 +93,9 @@ def read_data(file_name):
 if __name__ == "__main__":
     coordinates = read_data('natural_neighbourhoods.dat')
 
+    # Tests to make sure all districts are recorded
+    assert len(coordinates) == 154, f"there should 154 districts, but I only found {len(coordinates)}!"
+
     # Sets up the map projection and tile provider
     osgb = ccrs.OSGB()
     tiler = OSM()
